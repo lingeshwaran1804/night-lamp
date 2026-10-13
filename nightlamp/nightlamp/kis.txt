@@ -1,0 +1,14 @@
+Annotated GND as #PWR01.
+Annotated GND as #PWR02.
+Annotated 10 as C1.
+Annotated 100 as C2.
+Annotated LED as D1.
+Annotated 5v DC as J1.
+Annotated BC547 as Q1.
+Annotated LDR03 as R1.
+Annotated 10 as R2.
+Annotated 1 as R3.
+Annotated 330 as R4.
+Annotated 10 as RV1.
+Annotated LM358 (unit A) as U1A.
+Annotation complete.
